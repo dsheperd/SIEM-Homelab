@@ -1,3 +1,4 @@
+PARSE INGESTED LOGS
 let GeoIPDB_FULL = _GetWatchlist("geoip");
 let WindowsEvents = SecurityEvent
     | where EventID == 4625
