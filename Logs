@@ -1,3 +1,5 @@
+**SAMPLE WINDOWS SECURITY EVENTS**
+==================================
 7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:46.320 PM	OpsManager	\USER	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
 7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:49.324 PM	OpsManager	NT AUTHORITY\SYSTEM	Machine	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4624	4624 - An account was successfully logged on.			
 7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:49.324 PM	OpsManager	NT AUTHORITY\SYSTEM	Machine	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12548	0		4672	4672 - Special privileges assigned to new logon.			
