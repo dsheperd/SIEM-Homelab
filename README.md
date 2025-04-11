@@ -15,7 +15,7 @@ A hands-on SIEM lab built with Microsoft Sentinel to monitor and detect security
 ## 📸 **Screenshots**
 | Alert Type          | Dashboard View       |
 |---------------------|----------------------|
-| ![Brute-Force Alert](/screenshots/brute-force.png) | ![Attacks Dashboard](/dashboard.png) |
+| ![Brute-Force Alert](/screenshots/brute-force.png) | ![Attacks Dashboard](/screenshots/dashboard.png) |
 
 ## 🛠️ **Setup Guide**
 1. **Install [SIEM Tool]**:  
