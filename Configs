@@ -1,4 +1,5 @@
-// **PARSE INGESTED LOGS AND FILTER FOR LOGON FAILURE**
+**PARSE INGESTED LOGS AND FILTER FOR LOGON FAILURE**
+====================================================
 let GeoIPDB_FULL = _GetWatchlist("geoip");
 let WindowsEvents = SecurityEvent
     | where EventID == 4625
@@ -7,7 +8,8 @@ let WindowsEvents = SecurityEvent
 WindowsEvents
 | project TimeGenerated, Computer, AttackerIP = IpAddress, City = cityname, Country = countryname, Lat = latitude, Lon = longitude
 
-// **FILTER BRUTE-FORCE ATTACK BY LOCATION**
+**FILTER BRUTE-FORCE ATTACK BY LOCATION**
+=========================================
 let GeoIPDB_FULL = _GetWatchlist("geoip");
 let WindowsEvents = SecurityEvent;
 WindowsEvents | where EventID == 4625
