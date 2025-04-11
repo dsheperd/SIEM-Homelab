@@ -24,13 +24,13 @@ For the purpose of this project, we'll utilised the free USD $200 Microsoft Azur
 
 1. Create Free Azure Subscription [here](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account)
 
-### **Part 2. Create a Resource Group**
+### **Part 2. Create Resource Group**
 
 1. Go to [azure portal](https://portal.azure.com) and search for Resource Group (logical container for managing related resources) 
 
    > Set a suitable **Resource group name** (e.g. SOC-Build). Choose a suitable **Region** (closer to your location) 
 
-### **Part 3. Create a Virual Machine (Honey Pot)**
+### **Part 3. Create Virual Machine (Honey Pot)**
 
 1. Go to [azure portal](https://portal.azure.com) and search for Virtual Machines
 
@@ -68,7 +68,7 @@ For the purpose of this project, we'll utilised the free USD $200 Microsoft Azur
 
    > We can now query the Log analytics workspace as well as the SIEM, sentinel directly, which we will do soon
    >
-   >💡Querying logs in here is a really important skill that you MUST have if you want to work in security operations. Depending on where you work, you need to know SQL, KQL, or SPL, but these are all basically the same thing. If you know one, you can easily learn the others. Microsoft and Sentinel uses KQL, which you can learn for free [here](https://kc7cyber.com/)
+   >💡 Querying logs in here is a really important skill that you MUST have if you want to work in security operations. Depending on where you work, you need to know SQL, KQL, or SPL, but these are all basically the same thing. If you know one, you can easily learn the others. Microsoft and Sentinel uses KQL, which you can learn for free [here](https://kc7cyber.com/)
 
    Observe some of your VM logs:
    
@@ -94,7 +94,7 @@ Download: [geoip-summarised.csv](https://drive.google.com/file/d/1eQ-WYgAquoOlev
          Number of lines before row: 0
          Search Key: network
 
-   > 💡Allow 30 minutes for the watchlist to fully import, there should be a total of roughly 54,000 rows.
+   > 💡 Allow 30 minutes for the watchlist to fully import, there should be a total of roughly 54,000 rows.
    >
    > In real life, this location data would come from a live source or it would be updated automatically on the back end by your service provider.
    
@@ -114,7 +114,7 @@ Download: [geoip-summarised.csv](https://drive.google.com/file/d/1eQ-WYgAquoOlev
 
 1. Within Sentinel, create a new Workbook
 
-2. Delete the prepopulated elements and add a “Query” element
+2. Delete the pre-populated elements and add a “Query” element
 
 3. Go to the advanced editor tab, copy and paste the JSON code below:
 
@@ -161,8 +161,9 @@ Download: [geoip-summarised.csv](https://drive.google.com/file/d/1eQ-WYgAquoOlev
    
 6. Observe the map to see geolocation of originating attacks
    
-      > 💡For better result, keep your vm running for 24 hours. However, DO NOT forget to delete your Resource Group after completing the project.
+      > 💡 For better result, keep your vm running for 24 hours. However, DO NOT forget to delete your Resource Group after completing the project.
 
 
-That's it! Congratulations on your SIEM build!😊
-   
+That's it! Congratulations on your SIEM build! 😊
+
+###### *Inspired by Josh Madakor*
