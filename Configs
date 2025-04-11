@@ -1,4 +1,4 @@
-**PARSE INGESTED LOGS AND FILTER FOR LOGON FAILURE**
+//PARSE INGESTED LOGS AND FILTER FOR LOGON FAILURE//
 let GeoIPDB_FULL = _GetWatchlist("geoip");
 let WindowsEvents = SecurityEvent
     | where EventID == 4625
