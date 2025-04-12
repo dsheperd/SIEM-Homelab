@@ -1,6 +1,8 @@
 # BULLDOG SECURITY
 
-![Company Logo](images/company-logo.png)
+<div align="center">
+    <img src="images/company-l-small.png" alt="Image description">
+</div>
 
 # SIEM Homelab Project
 
