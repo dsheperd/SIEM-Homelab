@@ -1,23 +1,30 @@
+# BullDog Security
+
+![Company Logo](images/company-logo)
+
 # SIEM Homelab Project
 
 A hands-on SIEM lab built with Microsoft Sentinel to monitor and detect security threats.
 
-## 🔧 **Tools Used**
+## **Tools Used** 🔧
 - **SIEM:** Microsoft Sentinel
 - **Data Sources:** Windows Event Logs
 - **Detection Rules:** Custom KQL
 
-## 🚀 **Features**
+## **Features** 🚀 
 - Real-time alerting for brute-force attacks, malware C2 traffic, etc.
 - Dashboards for threat visualization.
 - Automated responses (e.g., block IPs via firewall).
 
-## 📸 **Screenshots**
+## **Screenshots** 📸
 | Alert Type          | Dashboard View       |
 |---------------------|----------------------|
-| ![Brute-Force Alert](/brute-force.png) | ![Attacks Dashboard](/dashboard.png) |
+| ![Brute-Force Alert](images/brute-force.png) | ![Attacks Dashboard](images/dashboard.png) |
 
-## 🛠️ **Setup Guide**
+## **Architecture** 🏯
+![Logical Diagram](images/architecture)
+
+## **Setup Guide** 🛠️ 
 For the purpose of this project, we'll utilised the free USD $200 Microsoft Azure credit provided by Microsoft, as demonstrated below:
 
 ### **Part 1. Setup Azure Subscription**
@@ -166,4 +173,14 @@ Download: [geoip-summarised.csv](https://drive.google.com/file/d/1eQ-WYgAquoOlev
 
 That's it! Congratulations on your SIEM build! 😊
 
-###### *Inspired by Josh Madakor*
+## **Contributing** 🤝
+
+Open an issue or PR if you’d like to add detection rules!
+
+## **Author** ✍
+
+[Prince Aklasu Agbagba](www.linkedin.com/in/princeaklasuagbagba)
+
+## **Inspiration** 🥰
+
+[Josh Madakor](https://www.linkedin.com/in/joshmadakor/)
