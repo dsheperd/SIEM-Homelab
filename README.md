@@ -1,4 +1,4 @@
-# BullDog Security
+# BULLDOG SECURITY
 
 ![Company Logo](images/company-logo.png)
 
@@ -92,7 +92,7 @@ For the purpose of this project, we'll utilised the free USD $200 Microsoft Azur
 
 Download: [geoip-summarised.csv](https://drive.google.com/file/d/1eQ-WYgAquoOlevIAdh-I6xkkHBNl9qdu/view?usp=drive_link)
 
-3. Within Sentinel, create the watchlist:
+3. Within Sentinel, create a watchlist:
    
    parameters:
    
