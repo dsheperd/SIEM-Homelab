@@ -1,6 +1,6 @@
 # BullDog Security
 
-![Company Logo](images/company-logo)
+![Company Logo](images/company-logo.png)
 
 # SIEM Homelab Project
 
@@ -22,7 +22,7 @@ A hands-on SIEM lab built with Microsoft Sentinel to monitor and detect security
 | ![Brute-Force Alert](images/brute-force.png) | ![Attacks Dashboard](images/dashboard.png) |
 
 ## **Architecture** 🏯
-![Logical Diagram](images/architecture)
+![Logical Diagram](images/architecture.png)
 
 ## **Setup Guide** 🛠️ 
 For the purpose of this project, we'll utilised the free USD $200 Microsoft Azure credit provided by Microsoft, as demonstrated below:
