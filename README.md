@@ -1,12 +1,10 @@
-# BULLDOG SECURITY
+# SIEM Homelab: Threat Detection Lab 
 
-<div align="center">
-    <img src="images/company-l-small.png" alt="Image description">
-</div>
+*A hands-on project using Microsoft Sentinel to detect brute-force attacks, malware C2 traffic, and more.*
 
-# SIEM Homelab Project
+# **Threat Dashboard** 🕵️
 
-A hands-on SIEM lab built with Microsoft Sentinel to monitor and detect security threats.
+![Threat Dashboard](images/dashboard.png)
 
 ## **Tools Used** 🔧
 - **SIEM:** Microsoft Sentinel
@@ -186,3 +184,9 @@ Open an issue or PR if you’d like to add detection rules!
 ## **Inspiration** 🥰
 
 [Josh Madakor](https://www.linkedin.com/in/joshmadakor/)
+
+# 
+
+<div align="center">
+    <img src="images/company-l-small.png" alt="Image description">
+</div>
