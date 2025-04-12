@@ -1,0 +1,17 @@
+**SAMPLE WINDOWS SECURITY EVENTS**
+==================================
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:46.320 PM	OpsManager	\USER	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:49.324 PM	OpsManager	NT AUTHORITY\SYSTEM	Machine	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4624	4624 - An account was successfully logged on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:49.324 PM	OpsManager	NT AUTHORITY\SYSTEM	Machine	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12548	0		4672	4672 - Special privileges assigned to new logon.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:49.663 PM	OpsManager	domain\Administrator	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:53.160 PM	OpsManager	\ADMINISTRATOR	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:14:54.084 PM	OpsManager	\ADMIN	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:15:24.310 PM	OpsManager	\ADMINISTRATOR	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:15:25.181 PM	OpsManager	\ADMIN	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:15:32.084 PM	OpsManager	\ADMINISTRATOR	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:15:32.944 PM	OpsManager	\USER	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:15:33.742 PM	OpsManager	\ADMINISTRATOR	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:15:39.828 PM	OpsManager	\ADMINISTRATOR	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/11/2025, 12:15:39.921 PM	OpsManager	\ADMINISTRATOR	User	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4625	4625 - An account failed to log on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/10/2025, 8:02:46.497 PM	OpsManager	NT AUTHORITY\SYSTEM	Machine	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12544	0		4624	4624 - An account was successfully logged on.			
+7184e828-c2ae-460d-85ea-9eec49811121	4/10/2025, 8:02:46.497 PM	OpsManager	NT AUTHORITY\SYSTEM	Machine	AC-OPR-MGR	Microsoft-Windows-Security-Auditing	Security	12548	0		4672	4672 - Special privileges assigned to new logon.			
