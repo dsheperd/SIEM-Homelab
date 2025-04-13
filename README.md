@@ -188,5 +188,5 @@ Open an issue or PR if you’d like to add detection rules!
 # 
 
 <div align="center">
-    <img src="images/company-l-small.png" alt="Image description">
+    <img src="images/homelab-pr.png" alt="Image description">
 </div>
