@@ -179,7 +179,7 @@ Open an issue or PR if you’d like to add detection rules!
 
 ## **Author** ✍
 
-[Prince Aklasu Agbagba](www.linkedin.com/in/princeaklasuagbagba)
+[Prince Aklasu Agbagba](https://www.linkedin.com/in/princeaklasuagbagba)
 
 ## **Inspiration** 🥰
 
